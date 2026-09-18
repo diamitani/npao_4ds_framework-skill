@@ -1,3 +1,9 @@
+---
+name: npao-4ds-framework
+description: >
+  **Canonical source:** NPAO https://rostr-paper.vercel.app/#s6 · 4Ds https://rostr-paper.vercel.app/#s6-7 *Read this file before classifying tasks or assigning phases. Fetch the live section only if a definition is still unclear.* NPAO classifies every task by the *felt urgency* behind it, not by top Use this skill when working with npao 4ds framework tasks or workflows.
+---
+
 # NPAO Priority Framework + 4Ds Lifecycle
 
 **Canonical source:** NPAO https://rostr-paper.vercel.app/#s6 · 4Ds https://rostr-paper.vercel.app/#s6-7
